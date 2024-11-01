@@ -1,9 +1,9 @@
 ---
-title: Sem título 2
-created: 2024-11-01
+title: TCC de Matematica
+created: 2024-09-19
 dg-publish: true
 tags:
   - pessoal/estudos
   - pessoal/quaseumdev
 ---
-| [Voltar](1.LIFE/index) | 
+| [Voltar](1.LIFE/index) |
