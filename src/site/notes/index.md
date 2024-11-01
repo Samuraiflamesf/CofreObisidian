@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -9,7 +9,6 @@ Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e comparti
 | File                                                         | title                  | description                                                                                                      |
 | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [[1.LIFE/Notas/Aprendendo Python\|Aprendendo Python]]     | Aprendendo Python      | Anotações sobre meu estudo em python.                                                                            |
-| [[3.Caixa de Entrada/index\|index]]                       | Caixa de Entrada       | Estas anotações são ideias livres, sem julgamento, todos pensamentos sem limpeza.                                |
 | [[1.LIFE/Notas/DataScience_PUC\|DataScience_PUC]]         | Faculdade Data Science | Anotações sobre minha pós em Ciência de Dados Aplicada à Saúde.                                                  |
 | [[1.LIFE/Notas/Gastronomia_UNIFACS\|Gastronomia_UNIFACS]] | Faculdade Gastronomia  | Anotações sobre minha faculdade de Gastronomia.                                                                  |
 | [[1.LIFE/Notas/Matematica_IFBA\|Matematica_IFBA]]         | Faculdade Matemática   | Anotações sobre minha faculdade de Matemática.                                                                   |
