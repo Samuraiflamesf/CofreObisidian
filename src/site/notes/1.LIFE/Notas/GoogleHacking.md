@@ -9,7 +9,7 @@ Para qualquer busca feita no Google, toda resposta terá a seguinte forma de exi
 - URL para o site correspondente;
 - Título;
 - Resumo.
-![Pasted image 20240607170737.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240607170737.png)
+![Pasted image 20240607170737.png](/img/user/0.Resources/img/Pasted%20image%2020240607170737.png)
 ## ## Quais operadores mais utilizados?
 Os operadores mais utilizados para realizar as buscas, são:
 - **site:** limita os resultados da busca a um domínio específico, incluindo subdomínios;

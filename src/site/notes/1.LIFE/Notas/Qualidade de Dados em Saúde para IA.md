@@ -8,9 +8,9 @@ tags:
 ## Introdução sobre Python 
 - Melhorar o desempenho (Utilizar dicionario para dados)
 - Tipos de dados
-    ![Pasted image 20240709122457.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240709122457.png)
+    ![Pasted image 20240709122457.png](/img/user/0.Resources/img/Pasted%20image%2020240709122457.png)
 - Libs
-    ![Python para Ciência de Dados-20240726093510564.webp](/img/user/0.Resources/0_Images/Python%20para%20Ci%C3%AAncia%20de%20Dados-20240726093510564.webp)
+    ![Python para Ciência de Dados-20240726093510564.webp](/img/user/0.Resources/img/Python%20para%20Ci%C3%AAncia%20de%20Dados-20240726093510564.webp)
 - 
 
 ### Referências

@@ -5,7 +5,7 @@ tags:
   - pessoal/estudos
   - pessoal/livros
 ---
-![Pasted image 20240713224921.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240713224921.png)
+![Pasted image 20240713224921.png](/img/user/0.Resources/img/Pasted%20image%2020240713224921.png)
 
 
 

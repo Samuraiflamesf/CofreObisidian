@@ -10,7 +10,7 @@ tags:
 [Voltar](1.LIFE/index)
 ## Resenha sobre o assunto:
 Ideia é utilizar o conhecimento das informações para tomar decisões ágeis e corretas.
-![Pasted image 20240618155237.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240618155237.png)
+![Pasted image 20240618155237.png](/img/user/0.Resources/img/Pasted%20image%2020240618155237.png)
 Governança de Dados é importante porque permite validar, qualificar, distribuir, organizar e armazenar as informações da organização de maneira precisa, ágil e eficiente.
 
 ### Objetivos

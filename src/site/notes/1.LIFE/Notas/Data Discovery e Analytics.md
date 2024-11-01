@@ -55,16 +55,16 @@ Modelos de análise de sensibilidade:
 ### OLAP
 É utilização de ferramentas de análises de dados e Bi como armazenamento de dados, para ajudar na solução de problemas. 
 ### Arquitetura de um Projeto
-![Pasted image 20240626132137.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240626132137.png)
+![Pasted image 20240626132137.png](/img/user/0.Resources/img/Pasted%20image%2020240626132137.png)
 A consolidação de todos os dados em um único repositório forma um Data Warehouse. Usando OLAP (Processamento Analítico Online), é possível acessar todo o conjunto de dados, mas selecionando apenas os dados específicos necessários para análise. O processo típico envolve a extração, transformação e carregamento (ETL) de dados do Data Warehouse para criar um Data Marts, que é um subconjunto de dados otimizado para análises específicas. Esses dados então passam por OLAP e são finalmente disponibilizados ao usuário final por meio de um cliente.
 #### Ciclo de vida de Projeto de Dados
-![Pasted image 20240628132646.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240628132646.png)
+![Pasted image 20240628132646.png](/img/user/0.Resources/img/Pasted%20image%2020240628132646.png)
 
 
 ## Dicionario
 KPI = Indicadores
 NPS = Net Promoter Score é uma metrica de satisfação
-    ![Pasted image 20240626124837.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240626124837.png)
+    ![Pasted image 20240626124837.png](/img/user/0.Resources/img/Pasted%20image%2020240626124837.png)
 SSD = Sistema de suporte a decisao
 Queries = consultas
 OLAP é projeto e construção de aplicações, Processamento analitico online

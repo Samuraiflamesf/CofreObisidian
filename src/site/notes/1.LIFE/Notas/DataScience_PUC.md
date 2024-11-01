@@ -32,7 +32,7 @@ description: Anotações sobre minha pós em Ciência de Dados Aplicada à Saúd
 Curso como especialista em **Ciência de Dados Aplicada à Saúde**.
 Iniciei curso em junho de 2024, sendo assim encerro o curso em 31/12/2025.
 Avaliação sera feita em dois momentos: 
-![Pasted image 20240620094555.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240620094555.png)
+![Pasted image 20240620094555.png](/img/user/0.Resources/img/Pasted%20image%2020240620094555.png)
 Atividades Objetivas(60 pontos) e Provas(40 pontos).
 100 pontos serão distribuídos por disciplina, aprovação sera alcançada com no mínimo 70 pontos.
 > **E se eu não alcançar o mínimo de setenta (70) pontos após a prova final, o que devo fazer?**

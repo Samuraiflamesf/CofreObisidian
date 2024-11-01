@@ -129,7 +129,7 @@ Abra o arquivo que você acabou de criar no Explorer.
 Certifique-se de que os arquivos ocultos estejam visíveis
 
 > `.github` é um arquivo oculto, então se você não o vê, clique em exibir, em `itens ocultos` selecione para vê-lo.<br> 
-> ![Pasted image 20240611141839.png](/img/user/0.Resources/0_Images/Pasted%20image%2020240611141839.png)
+> ![Pasted image 20240611141839.png](/img/user/0.Resources/img/Pasted%20image%2020240611141839.png)
 
 O arquivo em branco deveria ter sido aberto em seu editor de texto padrão. Agora copie e cole isto nele:
 ```

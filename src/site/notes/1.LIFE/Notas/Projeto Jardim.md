@@ -6,7 +6,7 @@ tags: pessoal/quaseumdev, atividades
 ---
 [Voltar](1.LIFE/index)
 💡 Sistema de regar as plantas por coletar agua da chuva e regar por tempo em tempo; Colocar motor para puxar agua.
-![Untitled.png](/img/user/0.Resources/0_Images/Untitled.png)
+![Untitled.png](/img/user/0.Resources/img/Untitled.png)
 ### Oque posso Fazer?
 - Motor para ligar e trazer pressão da agua
 - Kit de Jardinagem

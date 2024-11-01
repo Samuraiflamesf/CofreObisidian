@@ -25,7 +25,7 @@ Algumas ideias para fazer os novos moveis de metalon do meu quarto afim de resol
 - [x] Curva para eletroduto; ✅ 2024-09-18
 - [x] Abraçadeiras; ✅ 2024-08-13
 - [x] Tomadas e interruptores. ✅ 2024-08-13
-![Quarto-20240722140911661.webp](/img/user/0.Resources/0_Images/Quarto-20240722140911661.webp)
+![Quarto-20240722140911661.webp](/img/user/0.Resources/img/Quarto-20240722140911661.webp)
 ## Outras Atividades
 - [x] Refazer teto do quarto ✅ 2024-06-21
 - [x] Vedar todo o quarto ✅ 2024-09-18
@@ -45,6 +45,6 @@ Algumas ideias para fazer os novos moveis de metalon do meu quarto afim de resol
 - [ ] luz na mesa do quarto
 - [ ] Criar iluminação da escrivania
 ## Referências
-![quarto (2).webp](/img/user/0.Resources/0_Images/quarto%20(2).webp)
-![quarto (1).jpg](/img/user/0.Resources/0_Images/quarto%20(1).jpg)
-![quarto (1).webp](/img/user/0.Resources/0_Images/quarto%20(1).webp)
+![quarto (2).webp](/img/user/0.Resources/img/quarto%20(2).webp)
+![quarto (1).jpg](/img/user/0.Resources/img/quarto%20(1).jpg)
+![quarto (1).webp](/img/user/0.Resources/img/quarto%20(1).webp)
