@@ -6,4 +6,4 @@
 - [[4.Review do Caos/Notas/Criando Um Segundo Cérebro\|Criando Um Segundo Cérebro]]
 
 { .block-language-dataview}
-[Voltar](index)
+[Voltar](4.Review%20do%20Caos/index.md)
