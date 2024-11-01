@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
-![bpxxqqvps4h91.gif](/img/user/0.Resources/0_Images/bpxxqqvps4h91.gif)
-Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
 ## Funcionalidades
 | File                                                         | title                  | description                                                                                                      |
 | ------------------------------------------------------------ | ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -18,10 +15,20 @@ Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e comparti
 | [[4.Review do Caos/index\|index]]                         | Review do Caos         | Estas anotações são review de coisas.                                                                            |
 
 { .block-language-dataview}
-## Contribuições
 
-Se você tem sugestões, correções ou gostaria de contribuir de alguma forma, sinta-se à vontade para entrar em contato. Toda ajuda é bem-vinda! 
-- [E-mail](mailto:samuraiflamesf@gmail.com)
-- [Github](https://github.com/Samuraiflamesf)
-
-> Obrigado por visitar meu espaço pessoal! Espero que você encontre algo útil e que possa ajudar nos seus estudos ou trabalho.
+- 🏈 Sunday Game  
+    - [[Spicy-Sweet Buffalo Popcorn\|Spicy-Sweet Buffalo Popcorn]]  
+    - [[Guest list\|Guest list]]  
+    - [Jalapeno Popper Wantons](https://www.allrecipes.com/166991)  
+- 👨‍👩‍👦 Objectives  
+    - [[Family Recipes\|Family Recipes]]  
+    - [[Family Calendar\|Family Calendar]]  
+    - [[Education Plan\|Education Plan]]  
+    - [[Yearly Budget\|Yearly Budget]]  
+- 🌅 Exotic Vacations  
+    - [[Peru\|Peru]]  
+    - [[Austria\|Austria]]  
+    - [[Texas\|Texas]]  
+- 🎥 Movies to Watch  
+    - [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)  
+    - [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)

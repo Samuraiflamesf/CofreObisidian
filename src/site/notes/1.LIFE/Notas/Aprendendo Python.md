@@ -1,13 +1,7 @@
 ---
-title: Aprendendo Python
-created: 2024-08-12
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - moc
-description: Anotações sobre meu estudo em python.
+{"dg-publish":true,"permalink":"/1-life/notas/aprendendo-python/","title":"Aprendendo Python","tags":["pessoal/estudos","pessoal/quaseumdev","moc"],"noteIcon":""}
 ---
+
 [Voltar](1.LIFE/index)
 > [!dica]  Esssas seram as notas utilizando para aprender python
 ## Conteúdos
