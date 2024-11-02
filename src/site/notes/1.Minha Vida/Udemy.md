@@ -1,5 +1,5 @@
 ---
-{"title":"Udemy","created":"2024-10-25","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1.Minha Vida/Udemy/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/udemy/","title":"Udemy","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
 ---
 
 | [Voltar](index) |

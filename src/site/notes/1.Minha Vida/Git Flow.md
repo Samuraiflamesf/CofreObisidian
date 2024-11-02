@@ -1,5 +1,5 @@
 ---
-{"title":"Git Flow","created":"2024-09-28","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1.Minha Vida/Git Flow/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/git-flow/","title":"Git Flow","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]] | [[1.Minha Vida/PHP_Artisan\|PHP_Artisan]] |

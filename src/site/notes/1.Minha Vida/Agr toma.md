@@ -1,5 +1,5 @@
 ---
-{"Title":"Agr toma","criada":"2024-06-14","tags":["pessoal/poesias"],"dg-publish":true,"permalink":"/1.Minha Vida/Agr toma/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/agr-toma/","tags":["pessoal/poesias"],"noteIcon":""}
 ---
 
 [Voltar](1.LIFE/index)

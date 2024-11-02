@@ -1,5 +1,5 @@
 ---
-{"title":"Madre de deus","created":"2024-09-11","dg-publish":true,"tags":["pessoal/viagem"],"permalink":"/1.Minha Vida/Madre de deus/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/madre-de-deus/","title":"Madre de deus","tags":["pessoal/viagem"],"noteIcon":""}
 ---
 
 | [Voltar](index) |

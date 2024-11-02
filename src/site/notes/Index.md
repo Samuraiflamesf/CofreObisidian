@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"dg-content-classes":"dashboard","permalink":"/Index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -27,10 +27,12 @@
     - 
 - 🍲 Faculdade de Gastronomia - UNIFACS
 - 
+
 # 💼 Notas de Trabalho
 - [[2.Trabalho/MapaProjetosTrabalho\|MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
 - [[2.Trabalho/MapadeAtividades\|MapadeAtividades]]: CheckList de atividades para serem resolvidas
-- [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.
+- [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
+
 # 〽️ Estatísticas
 
 -   📖 Últimos Livros Adicionados

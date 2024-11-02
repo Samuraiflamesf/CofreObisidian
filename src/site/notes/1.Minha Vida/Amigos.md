@@ -1,5 +1,5 @@
 ---
-{"Title":"Amigos","dg-publish":true,"criada":"2024-06-14","tags":["pessoal/poesias"],"permalink":"/1.Minha Vida/Amigos/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/amigos/","tags":["pessoal/poesias"],"noteIcon":""}
 ---
 
 [Voltar](1.LIFE/index)

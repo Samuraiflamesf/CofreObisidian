@@ -1,5 +1,5 @@
 ---
-{"title":"Curso de Python para a Saúde","created":"2024-08-13","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev","python","roteiro"],"permalink":"/1.Minha Vida/Curso de Python para a Saúde/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/curso-de-python-para-a-saude/","title":"Curso de Python para a Saúde","tags":["pessoal/estudos","pessoal/quaseumdev","python","roteiro"],"noteIcon":""}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"title":"Iniciando_projeto_laravel","created":"2024-09-24","dg-publish":true,"tags":["pessoal/estudos","pessoal/quaseumdev"],"permalink":"/1.Minha Vida/Iniciando_projeto_laravel/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/iniciando-projeto-laravel/","title":"Iniciando_projeto_laravel","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
 ---
 
 | [Voltar](index) |

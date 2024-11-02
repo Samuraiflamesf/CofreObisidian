@@ -1,5 +1,5 @@
 ---
-{"Title":"A perfeita criação","criada":"2024-06-14","tags":["pessoal/poesias"],"dg-publish":true,"permalink":"/1.Minha Vida/A perfeita criação/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/a-perfeita-criacao/","tags":["pessoal/poesias"],"noteIcon":""}
 ---
 
 [Voltar](1.LIFE/index)

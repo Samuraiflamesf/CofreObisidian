@@ -1,5 +1,5 @@
 ---
-{"title":"{{title}}","dg-publish":true,"tags":["trabalho/BI"],"permalink":"/0.Settings/template/2_BI/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-settings/template/2-bi/","title":"{{title}}","tags":["trabalho/BI"],"noteIcon":""}
 ---
 
 | [Voltar](index) |
