@@ -9,24 +9,24 @@
 - 👇 Navegação
     - [[1.Minha Vida/ListaDePoesias\|ListaDePoesias]]
     - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
-    - [[]]
-    - [[Rastreador de Tempo\|Rastreador de Tempo]]
-    - [[Programação em C para Iniciantes\|Programação em C para Iniciantes]]
+    - [[1.Minha Vida/Lista de Livros\|Lista de Livros]]
 - 🖥️ Programação
-    - [[Git\|Git]]
-    - [[Python\|Python]]
-    - [[PHP\|PHP]]
+    - [[1.Minha Vida/Aprendendo Git\|Aprendendo Git]]
+    - [[1.Minha Vida/Aprendendo Python\|Aprendendo Python]]
+    - [[Aprendendo PhP\|Aprendendo PhP]]
 - 🔍 Review do Caos
     - [[4.Review do Caos/Restaurantes\|Restaurantes]]
     - [[4.Review do Caos/Filmes\|Filmes]]
     - [[4.Review do Caos/Livros\|Livros]]
 # 👨‍🎓 Faculdade
-- ➗ Faculdade de Matemática - IFBA
+- ➗ Faculdade de [[1.Minha Vida/Matematica_IFBA\|Matematica_IFBA]]
+    - [[3.Caixa de Entrada/Estatística Geral - Teoria e Aplicações\|Estatística Geral - Teoria e Aplicações]]
+- 📊 Faculdade de [[1.Minha Vida/DataScience_PUC\|DataScience_PUC]]
+    - [[1.Minha Vida/Qualidade de Dados em Saúde para IA\|Qualidade de Dados em Saúde para IA]]
+    - [[1.Minha Vida/Data Discovery e Analytics\|Data Discovery e Analytics]]
+- 🍲 Faculdade de [[1.Minha Vida/Gastronomia_UNIFACS\|Gastronomia_UNIFACS]]
     - 
-- 📊 Faculdade de Data Science - PUC
-    - 
-- 🍲 Faculdade de Gastronomia - UNIFACS
-- 
+
 ::: hidden
 # 💼 Notas de Trabalho
 - [[2.Trabalho/MapaProjetosTrabalho\|MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
@@ -34,7 +34,6 @@
 - [[2.Trabalho/MapaReuniõesTrabalho\|MapaReuniõesTrabalho]]: Anotações sobre as reuniões e eventos do Trabalho.  
 :::
 # 〽️ Estatísticas
-
 -   📖 Últimos Livros Adicionados
     - [[0.Settings/books/A matemática do ensino médio Vol 1\|A matemática do ensino médio Vol 1]]
 - [[0.Settings/books/Séries e equações diferenciais\|Séries e equações diferenciais]]
@@ -54,8 +53,12 @@
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 158
 # 📥 Caixa de Entrada
-| File | Criado em |
-| ---- | --------- |
+| File                                                                                                       | Criado em                    |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[3.Caixa de Entrada/Git\|Git]]                                                                         | 11:11 PM - November 01, 2024 |
+| [[3.Caixa de Entrada/Python\|Python]]                                                                   | 11:11 PM - November 01, 2024 |
+| [[3.Caixa de Entrada/PHP\|PHP]]                                                                         | 11:11 PM - November 01, 2024 |
+| [[3.Caixa de Entrada/Estatística Geral - Teoria e Aplicações\|Estatística Geral - Teoria e Aplicações]] | 11:12 PM - November 01, 2024 |
 
 { .block-language-dataview}
 ---

@@ -1,12 +1,7 @@
 ---
-title: Projeto de Matemática
-created: 2024-08-12
-dg-publish: true
-tags:
-  - pessoal/estudos
-  - pessoal/quaseumdev
-  - atividades
+{"dg-publish":true,"permalink":"/1-minha-vida/projeto-de-matematica/","title":"Projeto de Matemática","tags":["pessoal/estudos","pessoal/quaseumdev","atividades"]}
 ---
+
 [Voltar](1.LIFE/index)
 [[1.Minha Vida/Artigos_IA\|Artigos_IA]]
 ### Principais Conceitos
