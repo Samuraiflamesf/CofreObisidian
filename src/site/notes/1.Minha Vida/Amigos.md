@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/amigos/","tags":["pessoal/poesias"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/amigos/","tags":["pessoal/poesias"]}
 ---
 
 [Voltar](1.LIFE/index)

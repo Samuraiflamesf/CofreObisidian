@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/curso-de-python-para-a-saude/","title":"Curso de Python para a Saúde","tags":["pessoal/estudos","pessoal/quaseumdev","python","roteiro"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/curso-de-python-para-a-saude/","title":"Curso de Python para a Saúde","tags":["pessoal/estudos","pessoal/quaseumdev","python","roteiro"]}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/a-perfeita-criacao/","tags":["pessoal/poesias"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/a-perfeita-criacao/","tags":["pessoal/poesias"]}
 ---
 
 [Voltar](1.LIFE/index)

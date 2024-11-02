@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/aprendendo-git/","title":"Aprendendo Git","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/aprendendo-git/","title":"Aprendendo Git","tags":["pessoal/estudos","pessoal/quaseumdev"]}
 ---
 
 | [Voltar](index) | [[1.Minha Vida/Git Flow\|Git Flow]] | [[1.Minha Vida/PHP_Artisan\|PHP_Artisan]] |

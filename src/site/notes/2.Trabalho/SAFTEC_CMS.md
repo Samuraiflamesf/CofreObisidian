@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-trabalho/saftec-cms/","title":"SAFTEC_CMS","tags":["pessoal/estudos","pessoal/quaseumdev","trabalho/atividades"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/2-trabalho/saftec-cms/","title":"SAFTEC_CMS","tags":["pessoal/estudos","pessoal/quaseumdev","trabalho/atividades"]}
 ---
 
 | [Voltar](index) |

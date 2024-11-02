@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-settings/template/5-moc/","title":"{{title}}","tags":["moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/0-settings/template/5-moc/","title":"{{title}}","tags":["moc"]}
 ---
 
 

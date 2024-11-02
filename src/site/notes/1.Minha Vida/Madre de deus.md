@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/madre-de-deus/","title":"Madre de deus","tags":["pessoal/viagem"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/madre-de-deus/","title":"Madre de deus","tags":["pessoal/viagem"]}
 ---
 
 | [Voltar](index) |

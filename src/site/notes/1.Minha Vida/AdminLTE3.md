@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/admin-lte-3/","tags":["pessoal/estudos","pessoal/web"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/admin-lte-3/","tags":["pessoal/estudos","pessoal/web"]}
 ---
 
 [Voltar](1.LIFE/index)

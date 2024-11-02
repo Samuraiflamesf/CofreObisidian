@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/tenancy-for-laravel/","title":"Tenancy_for_laravel","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/tenancy-for-laravel/","title":"Tenancy_for_laravel","tags":["pessoal/estudos","pessoal/quaseumdev"]}
 ---
 
 | [Voltar](index) |

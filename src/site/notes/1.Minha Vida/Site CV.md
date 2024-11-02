@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/site-cv/","title":"Site CV","tags":["pessoal/estudos","pessoal/quaseumdev"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/site-cv/","title":"Site CV","tags":["pessoal/estudos","pessoal/quaseumdev"]}
 ---
 
 | [Voltar](index) |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/aprendendo-python/","title":"Aprendendo Python","tags":["pessoal/estudos","pessoal/quaseumdev","moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/aprendendo-python/","title":"Aprendendo Python","tags":["pessoal/estudos","pessoal/quaseumdev","moc"]}
 ---
 
 [Voltar](1.LIFE/index)

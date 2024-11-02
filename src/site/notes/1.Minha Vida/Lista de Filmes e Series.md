@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-filmes-e-series/","title":"Lista de Filmes e Series","tags":["série","filmes","moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/1-minha-vida/lista-de-filmes-e-series/","title":"Lista de Filmes e Series","tags":["série","filmes","moc"]}
 ---
 
 
