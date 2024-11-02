@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-trabalho/index/","title":"Notas de Trabalho","tags":["moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/2.Trabalho/index/","title":"Notas de Trabalho","tags":["moc"],"noteIcon":""}
 ---
 
 A seção de Trabalho, destino para organização das minhas atividades profissionais. Aqui você pode encontrar detalhes sobre reuniões, projetos e compromissos.

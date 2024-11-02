@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-review-do-caos/index/","title":"Review do Caos","tags":["moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/4.Review do Caos/index/","title":"Review do Caos","tags":["moc"],"noteIcon":""}
 ---
 
 ### Resenha de livros

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-caixa-de-entrada/index/","title":"Caixa de Entrada","tags":["moc"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/3.Caixa de Entrada/index/","title":"Caixa de Entrada","tags":["moc"],"noteIcon":""}
 ---
 
 ### Índice de Notas

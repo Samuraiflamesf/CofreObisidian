@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-review-do-caos/notas/criando-um-segundo-cerebro/","tags":["pessoal/estudos","pessoal/livros"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/4.Review do Caos/Notas/Criando Um Segundo Cérebro/","tags":["pessoal/estudos","pessoal/livros"],"noteIcon":""}
 ---
 
 [Voltar](1.LIFE/index)

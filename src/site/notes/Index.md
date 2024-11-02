@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"Trees of knowledge","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/Index/","title":"Trees of knowledge","contentClasses":"dashboard","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
@@ -21,7 +21,7 @@
 | --- | --- |:---:|
 | **Ano** | &lt;progress value="91" max="100"&gt;&lt;/progress&gt; | 91 %
 | **Mês**| &lt;progress value="3" max="100"&gt;&lt;/progress&gt; | 3 %
-| **Dia**| &lt;progress value="83" max="100"&gt;&lt;/progress&gt; | 83 %
+| **Dia**| &lt;progress value="87" max="100"&gt;&lt;/progress&gt; | 87 %
 | **Vida** | &lt;progress value="28" max="100"&gt;&lt;/progress&gt; | 28 %
 </code><button class="copy-code-button">Copiar</button></pre></span></span>
 
