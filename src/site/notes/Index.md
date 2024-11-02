@@ -1,5 +1,5 @@
 ---
-{"cssclasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"permalink":"/Index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"cssclasses":["dashboard"],"banner":"![bpxxqqvps4h91.gif](/img/user/0.Settings/img/bpxxqqvps4h91.gif)","banner_y":0.77667,"title":"Trees of knowledge","dg-home":true,"dg-publish":true,"dg-content-classes":"dashboard","permalink":"/Index/","contentClasses":"dashboard","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -11,9 +11,9 @@
     - Filmes
     - Livros
 -   👇🏻 Navegação
-    - [[Ideias para Escrita\|Ideias para Escrita]]
-    - [[Ideias de Conteúdo\|Ideias de Conteúdo]]
-    - [[Rastreador de Hábitos\|Rastreador de Hábitos]]
+    - [[1.Minha Vida/ListaDePoesias\|ListaDePoesias]]
+    - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
+    - [[]]
     - [[Rastreador de Tempo\|Rastreador de Tempo]]
     - [[Programação em C para Iniciantes\|Programação em C para Iniciantes]]
 # 👨‍🎓 Faculdade
@@ -44,8 +44,8 @@
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   🗂️ Total de Arquivos: 315
-    -   📝 Total de Notas no Cofre: 305
+    -   🗂️ Total de Arquivos: 316
+    -   📝 Total de Notas no Cofre: 306
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 158
     -   🍲 Receitas Pessoais: 
