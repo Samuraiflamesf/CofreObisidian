@@ -8,9 +8,9 @@ tags:
 ---
 [Voltar](1.LIFE/index)
 #### BAHIA 
-- [ ] [[3.Caixa de Entrada/Madre de deus\|Madre de deus]]
+- [ ] [[1.Minha Vida/Madre de deus\|Madre de deus]]
 - [ ] [[1.Minha Vida/Aracaju\|Aracaju]]
-- [ ] [[3.Caixa de Entrada/Santo Amaro\|Santo Amaro]]
+- [ ] [[Santo Amaro\|Santo Amaro]]
 - [ ] Chapada Diamantina
 - [ ] São Desidério
 - [ ] Raso da Catarina

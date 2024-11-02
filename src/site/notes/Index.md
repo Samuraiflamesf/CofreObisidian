@@ -6,23 +6,27 @@
 > Bem-vindo ao meu espaço pessoal! Este site foi criado para organizar e compartilhar minhas notas de estudo, anotações de trabalho e outros recursos úteis. Aqui você encontrará uma variedade de informações e ferramentas que uso no meu dia a dia profissional e acadêmico.
 
 # 🌱 Minha Vida
-- 🔍 Review do Caos
-    - Restaurantes
-    - Filmes
-    - Livros
--   👇🏻 Navegação
+- 👇 Navegação
     - [[1.Minha Vida/ListaDePoesias\|ListaDePoesias]]
     - [[1.Minha Vida/Lista de Manga\|Lista de Manga]]
     - [[]]
     - [[Rastreador de Tempo\|Rastreador de Tempo]]
     - [[Programação em C para Iniciantes\|Programação em C para Iniciantes]]
+- 🖥️ Programação
+    - [[Git\|Git]]
+    - [[Python\|Python]]
+    - [[PHP\|PHP]]
+- 🔍 Review do Caos
+    - [[4.Review do Caos/Restaurantes\|Restaurantes]]
+    - [[4.Review do Caos/Filmes\|Filmes]]
+    - [[4.Review do Caos/Livros\|Livros]]
 # 👨‍🎓 Faculdade
 - ➗ Faculdade de Matemática - IFBA
     - 
 - 📊 Faculdade de Data Science - PUC
     - 
 - 🍲 Faculdade de Gastronomia - UNIFACS
-    - 
+- 
 # 💼 Notas de Trabalho
 - [[2.Trabalho/MapaProjetosTrabalho\|MapaProjetosTrabalho]]: Notas e informações relevantes para meus projetos e tarefas de trabalho.
 - [[2.Trabalho/MapadeAtividades\|MapadeAtividades]]: CheckList de atividades para serem resolvidas
@@ -37,18 +41,16 @@
 
 { .block-language-dataview}
 - 🎬 Últimos Filmes Adicionados
-    - [[0.Settings/filmes/A Substância (2024)\|A Substância (2024)]]
-- [[0.Settings/filmes/Gemini O Planeta Sombrio (2022)\|Gemini O Planeta Sombrio (2022)]]
-- [[0.Settings/filmes/Feriado Sangrento (2023)\|Feriado Sangrento (2023)]]
-- [[0.Settings/filmes/Pig A Vingança (2021)\|Pig A Vingança (2021)]]
+    - [[0.Settings/media/filmes/A Substância (2024)\|A Substância (2024)]]
+- [[0.Settings/media/filmes/Gemini O Planeta Sombrio (2022)\|Gemini O Planeta Sombrio (2022)]]
+- [[0.Settings/media/filmes/Feriado Sangrento (2023)\|Feriado Sangrento (2023)]]
+- [[0.Settings/media/filmes/Pig A Vingança (2021)\|Pig A Vingança (2021)]]
 
 { .block-language-dataview}
 -   📼 Informações Gerais
-    -   🗂️ Total de Arquivos: 316
-    -   📝 Total de Notas no Cofre: 306
+    -   📝 Total de Notas no Cofre: 304
     -   📚 Total de Livros: 31
     -   🍿 Total de Filmes: 158
-    -   🍲 Receitas Pessoais: 
 # 📥 Caixa de Entrada
 | File | Criado em |
 | ---- | --------- |
